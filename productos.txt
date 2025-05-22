@@ -1,0 +1,2 @@
+Ensalada vegana,5.0,CADUCADO
+Zumo de naranja,2.5,BUENO
